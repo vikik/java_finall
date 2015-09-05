@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resturant name="Frida Hecht" maxCustomersPerDay="10" numOfSeats="7">
+	<Waiters maxWaitersInShift="2" maxCustomersCuncurrentPerWaiter="4" maxCustomersPerShift="4">
+	</Waiters>
+	<Customers>
+		<Customer name="customer_01" whileWaiting="readNewsPaper"/>
+		<Customer name="customer_02" whileWaiting="playBubbles"/>
+		<Customer name="customer_03" whileWaiting="talkOnThePhone"/>
+		<Customer name="customer_04" whileWaiting="doHomework"/>
+		<Customer name="customer_05" whileWaiting="readNewsPaper"/>
+		<Customer name="customer_06" whileWaiting="playBubbles"/>
+		<Customer name="customer_07" whileWaiting="talkOnThePhone"/>
+		<Customer name="customer_08" whileWaiting="watchMovie"/>
+		<Customer name="customer_09" whileWaiting="playBubbles"/>
+		<Customer name="customer_10" whileWaiting="talkOnThePhone"/>
+		<Customer name="customer_11" whileWaiting="readNewsPaper"/>
+	</Customers>
+</Resturant>
